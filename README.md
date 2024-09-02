@@ -30,7 +30,6 @@ The trained model is saved for future use in testing or deployment.
 Directory Structure
 -------------------
 - `Dataset` Dataset used in the project.
-- `Resnet 28.keras` The LightGBM model is save here for integration into the prototype.
 - `RESNET 28` Python script of data training, model development, and experimentation.
 - `Interface` Python script for the tkinter user interface or testing.
   
